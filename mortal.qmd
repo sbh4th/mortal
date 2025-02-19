@@ -33,7 +33,7 @@ stheme <- theme_classic() + theme(plot.title = element_text(size = 18, face = "b
 :::
 
 ::: {.column width="30%"}
-![](../images/case-deaton-cover.png){width="75%"}
+![](/images/case-deaton-cover.png){width="75%"}
 :::
 
 :::
@@ -59,7 +59,7 @@ Mechanisms?
 :::
 
 ::: {.column width="70%"}
-![](../images/brookings-le-educ.png){width=90%}
+![](/images/brookings-le-educ.png){width=90%}
 :::
 
 :::
@@ -78,7 +78,7 @@ Selection bias likely explains some of the *e~25~* gap increase.
 :::
 
 ::: {.column width="70%"}
-![](../images/novosad-2022.png){width=90%}
+![](/images/novosad-2022.png){width=90%}
 :::
 
 :::
@@ -103,7 +103,7 @@ Selection bias likely explains some of the *e~25~* gap increase.
 :::
 
 ::: {.column width="40%"}
-![](../images/dod-papers.png){width=110%}
+![](/images/dod-papers.png){width=110%}
 :::
 
 :::
@@ -114,7 +114,7 @@ Selection bias likely explains some of the *e~25~* gap increase.
 
 ##
 Contributors to change in *e~0~* 2014-2017, by race and cause for men
-![](../images/harper-decomp-2021-m.png)
+![](/images/harper-decomp-2021-m.png)
 
 ::: aside
 @harper2021
@@ -136,7 +136,7 @@ Contributors to change in *e~0~* 2014-2017, by race and cause for men
 :::
 
 ::: {.column width="50%"}
-![](../images/pew-2022.png)
+![](/images/pew-2022.png)
 :::
 
 :::
@@ -147,7 +147,7 @@ Source: [Pew Research Center](https://www.pewresearch.org/short-reads/2022/01/19
 
 
 ##
-![](../images/geronimus-decomp.png)
+![](/images/geronimus-decomp.png)
 
 ::: aside
 @geronimus2019
@@ -162,7 +162,7 @@ CVD and cancers now part of the story?
 :::
 
 ::: {.column width="70%"}
-![](../images/case-deaton-counterfactual.png)
+![](/images/case-deaton-counterfactual.png)
 :::
 
 :::
@@ -189,7 +189,7 @@ CVD and cancers now part of the story?
 :::
 
 ::: {.column width="30%"}
-![](../images/case-2022.png){width="100%"}
+![](/images/case-2022.png){width="100%"}
 :::
 
 :::
@@ -208,7 +208,7 @@ Can it drive up mortality?
 
 ::: {.column width="80%"}
 
-![](../images/pain-trends-educ.png){width="100%"}
+![](/images/pain-trends-educ.png){width="100%"}
 :::
 
 :::
@@ -228,7 +228,7 @@ Few differences by race.
 
 ::: {.column width="80%"}
 
-![](../images/hope-trends-educ.png){width="100%"}
+![](/images/hope-trends-educ.png){width="100%"}
 :::
 
 :::
@@ -250,7 +250,7 @@ Source: Author's calculations of NHIS.
 :::
 
 ::: {.column width="30%"}
-![](../images/case-2017-title.png){width="75%"}
+![](/images/case-2017-title.png){width="75%"}
 :::
 
 :::
@@ -302,7 +302,7 @@ Source: Federal Reserve Bank
 
 ::: {.column width="70%"}
 
-![](../images/autor-wage-compression.png)
+![](/images/autor-wage-compression.png)
 :::
 
 :::
@@ -329,7 +329,7 @@ Source: @autor2023. Also see @aeppli2022
 :::
 
 ::: {.column width="30%"}
-![](../images/economist-le-title-2023.png)
+![](/images/economist-le-title-2023.png)  
 :::
 
 :::
